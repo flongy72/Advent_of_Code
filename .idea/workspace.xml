@@ -2,8 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1ecc85fb-199e-45e3-979b-4e022d5f9751" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/2016/Day 1/advent_2016_day1.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2016/Day_01/advent_2016_day1_part1.py" beforeDir="false" afterPath="$PROJECT_DIR$/2016/Day_01/advent_2016_day1_part1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2016/Day_01/advent_2016_day1_part2.py" beforeDir="false" afterPath="$PROJECT_DIR$/2016/Day_01/advent_2016_day1_part2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2016/Day_02/advent_2016_day2_part1.py" beforeDir="false" afterPath="$PROJECT_DIR$/2016/Day_02/advent_2016_day2_part1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2016/Day_02/advent_2016_day2_part2.py" beforeDir="false" afterPath="$PROJECT_DIR$/2016/Day_02/advent_2016_day2_part2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2016/Day_03/advent_2016_day3_part1.py" beforeDir="false" afterPath="$PROJECT_DIR$/2016/Day_03/advent_2016_day3_part1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2016/Day_03/advent_2016_day3_part2.py" beforeDir="false" afterPath="$PROJECT_DIR$/2016/Day_03/advent_2016_day3_part2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2016/Day_04/advent_2016_day4_part1.py" beforeDir="false" afterPath="$PROJECT_DIR$/2016/Day_04/advent_2016_day4_part1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2016/Day_04/advent_2016_day4_part2.py" beforeDir="false" afterPath="$PROJECT_DIR$/2016/Day_04/advent_2016_day4_part2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2016/Day_04/advent_2016_day4_part3.py" beforeDir="false" afterPath="$PROJECT_DIR$/2016/Day_04/advent_2016_day4_part3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2016/Day_05/advent_2016_day5_part1.py" beforeDir="false" afterPath="$PROJECT_DIR$/2016/Day_05/advent_2016_day5_part1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2016/Day_05/advent_2016_day5_part2.py" beforeDir="false" afterPath="$PROJECT_DIR$/2016/Day_05/advent_2016_day5_part2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2016/Day_06/advent_2016_day6_part1.py" beforeDir="false" afterPath="$PROJECT_DIR$/2016/Day_06/advent_2016_day6_part1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2016/Day_07/advent_2016_day7_part1.py" beforeDir="false" afterPath="$PROJECT_DIR$/2016/Day_07/advent_2016_day7_part1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2016/Day_07/advent_2016_day7_part2.py" beforeDir="false" afterPath="$PROJECT_DIR$/2016/Day_07/advent_2016_day7_part2.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,7 +61,7 @@
       <recent name="C:\Users\furlo\GIT" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.advent2015_day23">
+  <component name="RunManager" selected="Python.advent_2016_day3_part1">
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -63,72 +76,6 @@
       <module name="" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="advent2015_day19" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="C:\Users\furlo\AppData\Local\Programs\Python\Python310\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2015/Day 19 - molecule replacements" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2015/Day 19 - molecule replacements/advent2015_day19.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="advent2015_day19_part2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="C:\Users\furlo\AppData\Local\Programs\Python\Python310\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2015/Day 19 - molecule replacements" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2015/Day 19 - molecule replacements/advent2015_day19_part2.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="advent2015_day20_summing_factors" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="C:\Users\furlo\AppData\Local\Programs\Python\Python310\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2015/Day 20 - infinite elves and houses" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2015/Day 20 - infinite elves and houses/advent2015_day20_summing_factors.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -181,13 +128,79 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="advent_2016_day2_part1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Advent_of_Code" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\furlo\AppData\Local\Programs\Python\Python310\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2016/Day_02" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2016/Day_02/advent_2016_day2_part1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="advent_2016_day3_part1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Advent_of_Code" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\furlo\AppData\Local\Programs\Python\Python310\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2016/Day_03" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2016/Day_03/advent_2016_day3_part1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="advent_2016_day3_part2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Advent_of_Code" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\furlo\AppData\Local\Programs\Python\Python310\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2016/Day_03" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2016/Day_03/advent_2016_day3_part2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.advent_2016_day3_part1" />
+        <item itemvalue="Python.advent_2016_day3_part2" />
+        <item itemvalue="Python.advent_2016_day2_part1" />
         <item itemvalue="Python.advent2015_day23" />
         <item itemvalue="Python.advent2015_day21" />
-        <item itemvalue="Python.advent2015_day20_summing_factors" />
-        <item itemvalue="Python.advent2015_day19_part2" />
-        <item itemvalue="Python.advent2015_day19" />
       </list>
     </recent_temporary>
   </component>
@@ -229,6 +242,7 @@
       <workItem from="1645203149231" duration="7409000" />
       <workItem from="1645271936030" duration="10083000" />
       <workItem from="1645289125564" duration="600000" />
+      <workItem from="1645290121401" duration="2434000" />
     </task>
     <servers />
   </component>
@@ -397,6 +411,7 @@
     <SUITE FILE_PATH="coverage/pythonProject$advent2015_day23.coverage" NAME="advent2015_day23 Coverage Results" MODIFIED="1645282415248" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2015/Day 23 - turing lock" />
     <SUITE FILE_PATH="coverage/pythonProject$advent_2016_day20__1_.coverage" NAME="advent_2016_day20 (1) Coverage Results" MODIFIED="1645027026267" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/GIT" />
     <SUITE FILE_PATH="coverage/pythonProject$advent2015_day20.coverage" NAME="advent2015_day20 Coverage Results" MODIFIED="1643806837516" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Advent_of_Code$advent_2016_day3_part1.coverage" NAME="advent_2016_day3_part1 Coverage Results" MODIFIED="1645292543646" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2016/Day_03" />
     <SUITE FILE_PATH="coverage/pythonProject$swop_nodes_in_linked_list.coverage" NAME="swop_nodes_in_linked_list Coverage Results" MODIFIED="1643200952962" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pythonProject$2015_day2.coverage" NAME="2015_day2 Coverage Results" MODIFIED="1645206382159" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2015/Day 2 - wrapping paper" />
     <SUITE FILE_PATH="coverage/pythonProject$blah.coverage" NAME="blah Coverage Results" MODIFIED="1642772127781" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../python files" />
@@ -428,6 +443,7 @@
     <SUITE FILE_PATH="coverage/pythonProject$2015_day1.coverage" NAME="2015_day1 Coverage Results" MODIFIED="1645203167075" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2015/Day 1" />
     <SUITE FILE_PATH="coverage/pythonProject$y.coverage" NAME="y Coverage Results" MODIFIED="1644267508338" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pythonProject$advent_2016_day14.coverage" NAME="advent_2016_day14 Coverage Results" MODIFIED="1644506965881" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Advent_of_Code$advent_2016_day3_part2.coverage" NAME="advent_2016_day3_part2 Coverage Results" MODIFIED="1645292467760" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2016/Day_03" />
     <SUITE FILE_PATH="coverage/pythonProject$advent2015_day10.coverage" NAME="advent2015_day10 Coverage Results" MODIFIED="1643456102879" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pythonProject$advent_2016_day13_part2.coverage" NAME="advent_2016_day13_part2 Coverage Results" MODIFIED="1644502388053" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pythonProject$2015_day1__1_.coverage" NAME="2015_day1 (1) Coverage Results" MODIFIED="1645205253660" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2015/Day 1 - apartment delivering" />
@@ -452,6 +468,7 @@
     <SUITE FILE_PATH="coverage/pythonProject$advent2015_day22_wizard_sim_using_class__1_.coverage" NAME="advent2015_day22_wizard_sim_using_class (1) Coverage Results" MODIFIED="1643910178480" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pythonProject$advent2015_day10_Look_and_say_sequence.coverage" NAME="advent2015_day10_Look_and_say_sequence Coverage Results" MODIFIED="1645272394209" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2015/Day 10 - look and say" />
     <SUITE FILE_PATH="coverage/pythonProject$advent2015_day15_cookie_recipe__1_.coverage" NAME="advent2015_day15_cookie_recipe (1) Coverage Results" MODIFIED="1643652341755" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Advent_of_Code$advent_2016_day2_part1.coverage" NAME="advent_2016_day2_part1 Coverage Results" MODIFIED="1645291013610" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2016/Day_02" />
     <SUITE FILE_PATH="coverage/pythonProject$advent2015_day22.coverage" NAME="advent2015_day22 Coverage Results" MODIFIED="1643910669571" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pythonProject$breadth_first_search.coverage" NAME="breadth first search Coverage Results" MODIFIED="1643799074560" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pythonProject$dijkstras_algorithm.coverage" NAME="dijkstras algorithm Coverage Results" MODIFIED="1643366314290" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
