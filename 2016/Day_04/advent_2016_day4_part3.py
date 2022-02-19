@@ -33,10 +33,7 @@ def main():
             sector_id_list.append(sector_id)
             for i in range(0,bracket1-4):
                 room_string += room[i]
-
             room_list.append(room_string)
-
-
 
         for room in room_list:
             decrypted=""
@@ -57,12 +54,8 @@ def main():
                 decrypted += new_letter
             decrypted_list.append(decrypted)
 
-            if decrypted=="northpole object storage":
-                print (forward)
-
-
-
-
+            if decrypted == "northpole object storage":
+                print(forward)
 
 
 if __name__ == '__main__':
