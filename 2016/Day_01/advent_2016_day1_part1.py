@@ -52,8 +52,7 @@ for instruction in list_of_directions:
         x -= int(forward)
 
 
-    print(a)
-    print(x,y)
+
     continue
 
 print ( abs(x) + abs(y))
