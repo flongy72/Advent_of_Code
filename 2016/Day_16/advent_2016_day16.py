@@ -15,6 +15,7 @@ def dragon_curve(string, disk):
     else:
         return result
 
+
 def create_checksum(str, disk):
     new_string = ""
     if len(str) > disk:
@@ -31,4 +32,6 @@ def create_checksum(str, disk):
     else:
         return new_string
 
-print(create_checksum(dragon_curve("00101000101111010", 35651584), 35651584))
+
+if __name__ == "__main__":
+    print(create_checksum(dragon_curve("00101000101111010", 35651584), 35651584))

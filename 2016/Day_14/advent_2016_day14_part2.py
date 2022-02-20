@@ -27,7 +27,7 @@ def main():
                 for j in range(1, 1001):
                     k = i + j
                     if k not in hashes:
-                        hashes[k] = stretch_hash(k,"ahsbgdzn", 2017)
+                        hashes[k] = stretch_hash(k, "ahsbgdzn", 2017)
                     else:
                         h2 = hashes[k]
                     if char in h2:

@@ -1,6 +1,5 @@
 def main():
     elves = [[i, 1] for i in range(400000)]
-
     i = 0
     while len(elves) > 1:
         print(len(elves))

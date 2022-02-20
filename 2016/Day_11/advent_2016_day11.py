@@ -1,13 +1,15 @@
 import itertools
 import random
+
 map = {"lift": 1, "hg": 2, "h": 1, "lg": 3, "l": 1}
 #map = {"lift": 1, "ptg": 2, "pt": 1, "rth": 2, "rthg": 2, "stg":1, "st":1, "thg":2, "th":3, "cug":2, "cu":2}
 avoid = []
 path = [list(map.values())]
-map_list =[]
+map_list = []
 temp_map = {}
-def main():
 
+
+def main():
 
     def move_items():
         global map

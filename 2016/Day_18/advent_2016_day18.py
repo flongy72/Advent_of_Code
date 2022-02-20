@@ -15,13 +15,11 @@ def main():
                 upper = array[-1][-2:] + "."
             else:
                 upper = array[-1][y-1:y+2]
-            #print(upper)
             if upper in traps:
                 new_line += "^"
             else:
                 new_line += "."
         array.append(new_line)
-        #print(array)
     count = 0
     for i in range(len(array)):
         count += array[i].count(".")

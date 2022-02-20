@@ -9,12 +9,9 @@ def get_hash(string):
 
 def set_doors(hash, pos, doors):
     open = "bcdef"
-    #print(hash)
     for i in range(4):
         if hash[i] in open:
             doors[i][1] = True
-    # print(pos)
-    # print(doors)
     x, y = pos
     if x == 0:
         doors[0][1] = False
@@ -33,7 +30,7 @@ def main():
     places_to_visit = []
     while pos != (3, 3):
         doors = [["U", False], ["D", False], ["L", False], ["R", False]]
-        x,y = pos
+        x, y = pos
         doors = set_doors(get_hash(path), pos, doors)
         open = [x[0] for x in doors if x[1] is True]
         if not open:

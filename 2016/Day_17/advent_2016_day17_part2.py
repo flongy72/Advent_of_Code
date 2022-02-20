@@ -9,12 +9,9 @@ def get_hash(string):
 
 def set_doors(hash, pos, doors):
     open = "bcdef"
-    #print(hash)
     for i in range(4):
         if hash[i] in open:
             doors[i][1] = True
-    # print(pos)
-    # print(doors)
     x, y = pos
     if x == 0:
         doors[0][1] = False

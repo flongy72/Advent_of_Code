@@ -1,5 +1,4 @@
 def main():
-    array = []
     with open("advent_2016_day18.txt") as input:
         line = input.readline()
     count = line.count(".")
@@ -13,15 +12,12 @@ def main():
                 upper = line[-2:] + "."
             else:
                 upper = line[y-1:y+2]
-            #print(upper)
             if upper in traps:
                 new_line += "^"
             else:
                 new_line += "."
         count += new_line.count(".")
         line = new_line
-        #print(array)
-
     print(count)
 
 

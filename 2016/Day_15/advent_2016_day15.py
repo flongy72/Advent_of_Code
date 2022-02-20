@@ -25,6 +25,4 @@ while True:
     if disc1_pos == disc2_pos == disc3_pos == disc4_pos == disc5_pos == disc6_pos == disc7_pos == 0:
         break
     t += 1
-    # print(t)
-    # print(disc1_pos, disc2_pos, disc3_pos, disc4_pos, disc5_pos, disc6_pos)
 print(t)
