@@ -35,9 +35,6 @@ def main():
                         break
                 break
         i += 1
-
-
-
     print(keys[63])
 
 
