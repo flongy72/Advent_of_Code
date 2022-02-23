@@ -1,21 +1,11 @@
-#-------------------------------------------------------------------------------
-# Name:        module1
-# Purpose:
-#
-# Author:      furlo
-#
-# Created:     03/12/2021
-# Copyright:   (c) furlo 2021
-# Licence:     <your licence>
-#-------------------------------------------------------------------------------
+
 
 def main():
 
     with open('advent_2021_day3.txt') as input:
-        data=input.read()
-        data2=data.splitlines()
-        CO2_answer=ox_gen(data2,False)
-        O2_answer=ox_gen(data2,True)
+        data2 = input.read().splitlines()
+        CO2_answer = ox_gen(data2, False)
+        O2_answer = ox_gen(data2, True)
         print(CO2_answer*O2_answer)
 
 def ox_gen(data2,oxy):

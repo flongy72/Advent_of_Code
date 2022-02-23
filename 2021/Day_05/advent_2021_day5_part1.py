@@ -1,17 +1,8 @@
-#-------------------------------------------------------------------------------
-# Name:        module1
-# Purpose:
-#
-# Author:      furlo
-#
-# Created:     05/12/2021
-# Copyright:   (c) furlo 2021
-# Licence:     <your licence>
-#-------------------------------------------------------------------------------
+
 
 def main():
-    array=[]
-    new_list=[]
+    array = []
+    new_list = []
     count=0
     for i in range(1000):
         array.append([])
