@@ -24,8 +24,7 @@ def main():
                         flash(x, y)
             return
 
-        for step in range(1000):
-            flashes = 0
+        for step in range(100):
             flashed = set()
             for row_i, row in enumerate(cavern_map):
                 for col_i in range(len(row)):
@@ -34,10 +33,6 @@ def main():
                         if cavern_map[row_i][col_i] > 9:
                             flash(row_i, col_i)
             flashes += sum(list(y.count(0) for y in cavern_map))
-            # Lines 40-42 added for part 2 and range on line 29 increased from 100
-            if flashes == 100:
-                print("Part 2 answer...step ", step + 1)
-                break
         print(flashes)
 
 
