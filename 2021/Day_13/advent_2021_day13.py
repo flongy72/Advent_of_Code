@@ -8,7 +8,9 @@ def main():
         co_ords = data[0].splitlines()
         folds = data[1].splitlines()
         for line in co_ords:
-            x_ord, y_ord = line.split(",")
+            nums = line.split(",")
+            x_ord = int(nums[0])
+            y_ord = int(nums[1])
             paper[y_ord][x_ord] = 1
         for line in folds:
             fold = line.split()[2]
@@ -28,7 +30,9 @@ def main():
                             paper[x][y-((y-num)*2)] = 1
                             paper[x][y] = 0
         for line in range(6):
-            print(paper[line][:41])
+            print(paper[line][:35])
+        for line in range(6):
+            print(paper[line][35:41])
 
 
 if __name__ == "__main__":
