@@ -1,55 +1,38 @@
-#-------------------------------------------------------------------------------
-# Name:        module1
-# Purpose:
-#
-# Author:      furlo
-#
-# Created:     19/11/2021
-# Copyright:   (c) furlo 2021
-# Licence:     <your licence>
-#-------------------------------------------------------------------------------
-
 def main():
-    pass
+    with open("advent_2017_day7.txt") as input:
+        def calculate_weight(platform):
+
+            if platform not in towers_list:
+                return singles_dict[platform]
+            temp_list = []
+            for x in towers[platform]:
+                weight = calculate_weight(x)
+                temp_list.append(weight)
+            print(platform + " = " + str(temp_list))
+            for y in temp_list:
+                if temp_list.count(y) == 1:
+                    print("this is unbalanced..." + str(temp_list))
+                    odd = temp_list.index(y)
+                    diff = abs(temp_list[odd-1]-temp_list[odd])
+                    print(towers[platform][odd])
+                    print("correct weight = " + str(singles_dict[towers[platform][odd]]-diff))
+                    quit()
+            return singles_dict[platform] + sum(temp_list)
+
+        data = input.read()
+        towers_list = []
+        singles_dict = {}
+        towers = {}
+        for line in data.splitlines():
+            weights = line.split()
+            if ">" in line:
+                towers_list.append(weights[0])
+                disc = weights[3:]
+                towers[weights[0]] = [x.strip(",") for x in disc]
+            singles_dict[weights[0]] = int(weights[1].strip("()"))
+
+        calculate_weight("bpvhwhh")
+
 
 if __name__ == '__main__':
     main()
-filename = "advent_2017_day7.txt"
-accessMode = "r"
-my_File = open(filename, accessMode)
-data=my_File.read()
-new_list=[]
-singles_list=[]
-names_list=[]
-sit_on_discs_list=[]
-name_list=[]
-master_list=[]
-weights=[]
-full=False
-list=data.splitlines()
-for line in list:                       # create 2 lists of singles and multiples
-    if ">" in line:
-        new_list.append(line)
-    else:
-        singles_list.append(line)
-
-
-for line in new_list:                   # create 2 strings from each multiple
-    split_list=line.split("-> ")         # one with names and weight, the other with the other discs which sit on it
-    names_list.append(split_list[0])            # add these to their equivalent lists
-    sit_on_discs_list.append(split_list[1])     #
-
-for line in names_list:
-    steve=line.split()
-    name_list.append(steve[0])
-    weights.append(steve[1])
-
-for lines in sit_on_discs_list:
-    new_line = lines.split(", ")
-    master_list.append(new_line)
-
-bottom="bpvhwhh"
-
-
-
-

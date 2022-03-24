@@ -1,7 +1,6 @@
 from heapq import heappop, heappush
 from math import inf
 from collections import defaultdict
-import numpy
 
 def main():
     def dijkstras(graph, start):
